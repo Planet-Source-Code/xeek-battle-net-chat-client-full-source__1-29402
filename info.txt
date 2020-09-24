@@ -1,0 +1,8 @@
+program id's
+SEXP - starcraft broodwar
+STAR - starcraft
+DRTL - diablo
+D2DV - diablo 2
+D2XP - diablo 2 expansion
+W2BN - warcraft 2 b.net
+CHAT - chat bot
